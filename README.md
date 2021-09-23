@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusufa22
+- 👋 Hi, I’m Ayub Yusuf
 - 👀 I’m interested in everything computers. both hardware and software.
 - 🌱 I’m currently learning Express, React and non-http web technologies like WebRTC and Websockets.
-- 📫 reach my at ayubabdikarim@protonmail.com
+- 📫 reach me at ayubabdikarim@protonmail.com
