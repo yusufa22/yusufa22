@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ayub Yusuf
 - 👀 I’m interested in everything computers. both hardware and software.
-- 🌱 I’m currently learning for certifications that i plan to take like the LPIC-1, CCNA and AWS Solutions Architect.
+- 🌱 I’m currently learning for certifications that i plan to take.
 - 📫 reach me at ayubabdikarim@protonmail.com
